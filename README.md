@@ -31,7 +31,7 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
 ## Mock Up
-The folllowing image shows the web application's appearance.
+The following image shows the web application's appearance:
 
 ![Shows depoyed web application with webpage heading and developer's photo.](./Assets/images/advanced-css-portfolio.png)
 
