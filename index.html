@@ -16,13 +16,13 @@
         <nav>
             <ul>
                 <li>
-                    <a href="#about-me">About Me</a>
+                    <a href="#about">About Me</a>
                 </li>
                 <li>
-                    <a href="#my-work">My Work</a>
+                    <a href="#work">Work</a>
                 </li>
                 <li>
-                    <a href="contact-me">Contact Me</a>
+                    <a href="#contact">Contact Me</a>
                 </li>
                 <li>
                     <a href="./assets/documents/resume-vaughanknouse.pdf" target="_blank">My Resume</a>
@@ -30,22 +30,86 @@
             </ul>
         </nav>
     </header>
+
     <!--hero section-->
-    <section>
-
+    <section class="hero">
+        <div>
+            <img src="./assets/images/photo-vaughanknouse.jpeg" alt="Photo of Vaughan Knouse">
+        </div>
+        <div>
+            <h2>Hi, i'm Vaughan. Welcome to my page!</h2>
+        </div>
     </section>
-    <main>
-         <!--About Me section-->
-         <section>
 
+    <main class="page-wrapper">
+        <!--About Me section-->
+        <section class="content" id="about">
+            <h2>About Me</h2>
+            <div>
+                <p>
+                    I am an aspiring full-stack developer located in Washington, DC, who has spent a large amount of my life in both Fort Worth and Austin, TX. As a UT Austin alumna, I am a passionate Longhorns fan who loves any and all sports.
+                </p>
+                <p>
+                    Since undergraduate school, I have gained significant experience within the healthcare field through various roles, including clinical work as an emergency department medical scribe, lab work as a research assistant at the NIH's National Cancer Institute, and currently as a member of the administrative team at the NIH's Center for Scientific Review where grant research applications are reviewed. 
+                </p>
+                <p>
+                    My passion for healthcare has inspired me to gain new skills, which is what led me to the UT Austin Coding Bootcamp. As someone who is self-motivated and loves to learn, I hope to use my newly developed knowledge and skills to make a difference within the healthcare field. 
+                </p>
+            </div>
          </section>
+
         <!-- Work Section-->
-        <section>
+        <section class="content" id="work">
+            <h2>Work</h2>
+            <div class="flex-container">
 
+                <a href="https://vaughanknouse.github.io/Module01Challenge_Code-Refactor/" class="flex-item horiseon">
+                    <div>
+                        <h3>Horiseon</h3>
+                        <span>HTML/CSS</span>
+                    </div>
+                </a>
+
+                <a href="https://vaughanknouse.github.io/Module1MiniProject/" class ="flex-item mini-project">
+                    <div>
+                        <h3>My New Website</h3>
+                        <span>HTML/CSS</span>
+                    </div>
+                </a>
+
+                <a href="#" class="flex-item ocean">
+                    <div>
+                        <h3>Project 3</h3>
+                        <span>P3</span>
+                    </div>
+                </a>
+
+                <a href="#" class="flex-item sunset">
+                    <div>
+                        <h3>Project 4</h3>
+                        <span>P4</span>
+                    </div>
+                </a>
+
+                <a href="#" class="flex-item hillcountry">
+                    <div>
+                        <h3>Project 5</h3>
+                        <span>P5</span>
+                    </div>
+                </a>
+            </div>
         </section>
-        <!--Contact Me Section-->
-        <section>
 
+        <!--Contact Section-->
+        <section class="content contact" id="contact">
+            <h2>Contact Me</h2>
+            <div>
+                <address>
+                    <h2>202-365-3858</h2>
+                    <a href="mailto:vaughanknouse@gmail.com">vaughanknouse@gmail.com</a>
+                    <a href="https://github.com/vaughanknouse">GitHub</a>
+                </address>
+            </div>
         </section>
     </main>
 </body>
