@@ -33,6 +33,10 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Mock Up
 The following image shows the web application's appearance:
 
-![Shows depoyed web application with webpage heading and developer's photo.](./Assets/images/advanced-css-portfolio.png)
+![Shows depoyed web application with webpage heading and developer's photo.](assets/images/advanced-css-portfolio.png)
+
+```md
+![Shows depoyed web application with webpage heading and developer's photo.](assets/images/advanced-css-portfolio.png)
+```
 
 ## Link to Deployed Application
