@@ -2,20 +2,21 @@
 
 ## Description
 
-This week's challenge involves building a professional portfolio web page from scratch using HTML and CSS as well as the skills and knowledge we gained from weeks 1 and 2 of the bootcamp course. This portfolio is a way to showcase one's skills and talents to employers who are seeking to fill an open position. After the portfolio is created, one will be able to add personal deployed applications over time to develop a strong portfolio which is attractive to future employers. 
+This week's challenge involves building a professional portfolio web page from scratch using HTML and CSS as well as the skills and knowledge we gained from weeks 1 and 2 of the Boot Camp course. This portfolio is a way to showcase one's skills and talents to employers who are seeking to fill an open position. After the portfolio is created, one will be able to add personal deployed applications over time to develop a strong portfolio which is attractive to future employers.
 
 ## User Story
 
-```
+```md
 AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 ```
+
 ## Acceptance Criteria
 
 Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
 
-```
+```md
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
@@ -32,10 +33,11 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
 ## Mock Up
+
 The following image shows the web application's appearance:
 
-![Shows depoyed web application with webpage heading and developer's photo.](assets/images/advanced-css-portfolio.png)
+![Shows deployed web application with webpage heading and developer's photo.](assets/images/advanced-css-portfolio.png)
 
 ## Link to Deployed Application
 
-https://vaughanknouse.github.io/advanced-css-portfolio/
+<https://vaughanknouse.github.io/advanced-css-portfolio/>
